@@ -1,3 +1,4 @@
+//ES6
 class Student{
 function(firstname, lastname , rollnumber, Sex,Studentsage,dob){
     this.firstname=firstname;
